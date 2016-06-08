@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Playball);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+
+header{
+	background-color: [#FFED74]
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav{
+	background-color: [#E8C66A]
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside{
+	background-color: [#FFC675]
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article{
+	background-color: [#E89C6C]
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div/section{
+	background-color: [#FFE2B8]
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+
+h1{
+font-family:'Playball', cursive;
+font-size: 60px;
+text-align: center;
+color: #9B3FB2;
+}
+
+
+h2{
+font-family: 'Kaushan Script', cursive;
+text-align: center;
+font-size: 30px;
+color: #CC4AAB;
+}
+
+
+p{
+	font-style:italic;
+	text-align: center;
+	font-size: 15px;
+	color: #1D78E8;
+}
